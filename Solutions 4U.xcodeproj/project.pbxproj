@@ -7,21 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F42661BA1F4622E200517F6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42661B91F4622E200517F6D /* ViewController.swift */; };
+		F42661BD1F4622EE00517F6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F42661BB1F4622EE00517F6D /* LaunchScreen.storyboard */; };
+		F42661BE1F4622EE00517F6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F42661BC1F4622EE00517F6D /* Main.storyboard */; };
+		F42661C21F46232C00517F6D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F42661C01F46232C00517F6D /* GoogleService-Info.plist */; };
+		F42661C51F4635ED00517F6D /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42661C41F4635ED00517F6D /* ViewTwo.swift */; };
 		F44476271F45A75B007766AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44476261F45A75B007766AA /* AppDelegate.swift */; };
-		F44476291F45A75B007766AA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44476281F45A75B007766AA /* ViewController.swift */; };
-		F444762C1F45A75B007766AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F444762A1F45A75B007766AA /* Main.storyboard */; };
 		F444762E1F45A75B007766AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F444762D1F45A75B007766AA /* Assets.xcassets */; };
-		F44476311F45A75B007766AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F444762F1F45A75B007766AA /* LaunchScreen.storyboard */; };
+		F91F599E11BF0C820AAD791E /* Pods_Solutions_4U.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E13EA32CF5A21B78DB9E7BCE /* Pods_Solutions_4U.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8AED5B4761F82963777B02E8 /* Pods-Solutions 4U.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Solutions 4U.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U.debug.xcconfig"; sourceTree = "<group>"; };
+		DEF57B33B20DDE49DFB25BF7 /* Pods-Solutions 4U.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Solutions 4U.release.xcconfig"; path = "Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U.release.xcconfig"; sourceTree = "<group>"; };
+		E13EA32CF5A21B78DB9E7BCE /* Pods_Solutions_4U.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Solutions_4U.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F42661B91F4622E200517F6D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = controllers/ViewController.swift; sourceTree = "<group>"; };
+		F42661BB1F4622EE00517F6D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Storyboards/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F42661BC1F4622EE00517F6D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Storyboards/Main.storyboard; sourceTree = "<group>"; };
+		F42661C01F46232C00517F6D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "suppurting/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		F42661C11F46232C00517F6D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = suppurting/Info.plist; sourceTree = "<group>"; };
+		F42661C41F4635ED00517F6D /* ViewTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
 		F44476231F45A75B007766AA /* Solutions 4U.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Solutions 4U.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F44476261F45A75B007766AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F44476281F45A75B007766AA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F444762B1F45A75B007766AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F444762D1F45A75B007766AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F44476301F45A75B007766AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F44476321F45A75B007766AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +37,47 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F91F599E11BF0C820AAD791E /* Pods_Solutions_4U.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		24E60426302697B4BD0CB836 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E13EA32CF5A21B78DB9E7BCE /* Pods_Solutions_4U.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5F4059800CD9277F411663A9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8AED5B4761F82963777B02E8 /* Pods-Solutions 4U.debug.xcconfig */,
+				DEF57B33B20DDE49DFB25BF7 /* Pods-Solutions 4U.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		F42661BF1F4622FB00517F6D /* supporting */ = {
+			isa = PBXGroup;
+			children = (
+				F42661C01F46232C00517F6D /* GoogleService-Info.plist */,
+				F42661C11F46232C00517F6D /* Info.plist */,
+				F444762D1F45A75B007766AA /* Assets.xcassets */,
+			);
+			name = supporting;
+			sourceTree = "<group>";
+		};
 		F444761A1F45A75B007766AA = {
 			isa = PBXGroup;
 			children = (
 				F44476251F45A75B007766AA /* Solutions 4U */,
 				F44476241F45A75B007766AA /* Products */,
+				5F4059800CD9277F411663A9 /* Pods */,
+				24E60426302697B4BD0CB836 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +93,29 @@
 			isa = PBXGroup;
 			children = (
 				F44476261F45A75B007766AA /* AppDelegate.swift */,
-				F44476281F45A75B007766AA /* ViewController.swift */,
-				F444762A1F45A75B007766AA /* Main.storyboard */,
-				F444762D1F45A75B007766AA /* Assets.xcassets */,
-				F444762F1F45A75B007766AA /* LaunchScreen.storyboard */,
-				F44476321F45A75B007766AA /* Info.plist */,
+				F444763B1F45B0B8007766AA /* controllers */,
+				F444763A1F45AFF0007766AA /* storyboards */,
+				F42661BF1F4622FB00517F6D /* supporting */,
 			);
 			path = "Solutions 4U";
+			sourceTree = "<group>";
+		};
+		F444763A1F45AFF0007766AA /* storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				F42661BB1F4622EE00517F6D /* LaunchScreen.storyboard */,
+				F42661BC1F4622EE00517F6D /* Main.storyboard */,
+			);
+			name = storyboards;
+			sourceTree = "<group>";
+		};
+		F444763B1F45B0B8007766AA /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				F42661B91F4622E200517F6D /* ViewController.swift */,
+				F42661C41F4635ED00517F6D /* ViewTwo.swift */,
+			);
+			name = controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +125,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F44476351F45A75B007766AA /* Build configuration list for PBXNativeTarget "Solutions 4U" */;
 			buildPhases = (
+				EC249F7B1E78239605728317 /* [CP] Check Pods Manifest.lock */,
 				F444761F1F45A75B007766AA /* Sources */,
 				F44476201F45A75B007766AA /* Frameworks */,
 				F44476211F45A75B007766AA /* Resources */,
+				9D9F0AD618865564EFDE1761 /* [CP] Embed Pods Frameworks */,
+				D69978CDE6EF83BAFAE73CAA /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,44 +180,88 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F44476311F45A75B007766AA /* LaunchScreen.storyboard in Resources */,
+				F42661BE1F4622EE00517F6D /* Main.storyboard in Resources */,
+				F42661C21F46232C00517F6D /* GoogleService-Info.plist in Resources */,
 				F444762E1F45A75B007766AA /* Assets.xcassets in Resources */,
-				F444762C1F45A75B007766AA /* Main.storyboard in Resources */,
+				F42661BD1F4622EE00517F6D /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		9D9F0AD618865564EFDE1761 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D69978CDE6EF83BAFAE73CAA /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U-resources.sh",
+				$PODS_CONFIGURATION_BUILD_DIR/FirebaseUI/FirebaseAuthUI.bundle,
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EC249F7B1E78239605728317 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Solutions 4U-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F444761F1F45A75B007766AA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F44476291F45A75B007766AA /* ViewController.swift in Sources */,
+				F42661BA1F4622E200517F6D /* ViewController.swift in Sources */,
 				F44476271F45A75B007766AA /* AppDelegate.swift in Sources */,
+				F42661C51F4635ED00517F6D /* ViewTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		F444762A1F45A75B007766AA /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F444762B1F45A75B007766AA /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		F444762F1F45A75B007766AA /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F44476301F45A75B007766AA /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		F44476331F45A75B007766AA /* Debug */ = {
@@ -258,9 +359,10 @@
 		};
 		F44476361F45A75B007766AA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8AED5B4761F82963777B02E8 /* Pods-Solutions 4U.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Solutions 4U/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Solutions 4U/suppurting/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "makeschool.com.Solutions-4U";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -270,9 +372,10 @@
 		};
 		F44476371F45A75B007766AA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DEF57B33B20DDE49DFB25BF7 /* Pods-Solutions 4U.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Solutions 4U/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Solutions 4U/suppurting/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "makeschool.com.Solutions-4U";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -299,6 +402,7 @@
 				F44476371F45A75B007766AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
