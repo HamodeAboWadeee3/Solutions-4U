@@ -10,10 +10,11 @@
 		F42661BA1F4622E200517F6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42661B91F4622E200517F6D /* ViewController.swift */; };
 		F42661BD1F4622EE00517F6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F42661BB1F4622EE00517F6D /* LaunchScreen.storyboard */; };
 		F42661BE1F4622EE00517F6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F42661BC1F4622EE00517F6D /* Main.storyboard */; };
-		F42661C21F46232C00517F6D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F42661C01F46232C00517F6D /* GoogleService-Info.plist */; };
-		F42661C51F4635ED00517F6D /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42661C41F4635ED00517F6D /* ViewTwo.swift */; };
 		F44476271F45A75B007766AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44476261F45A75B007766AA /* AppDelegate.swift */; };
 		F444762E1F45A75B007766AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F444762D1F45A75B007766AA /* Assets.xcassets */; };
+		F446021F1F46EC93008704D5 /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F446021E1F46EC93008704D5 /* CategoryTableViewController.swift */; };
+		F4B203D31F46DADF00E7252B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F4B203D21F46DADF00E7252B /* GoogleService-Info.plist */; };
+		F4B533221F470383008329DC /* CurrentCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B533211F470383008329DC /* CurrentCategoryViewController.swift */; };
 		F91F599E11BF0C820AAD791E /* Pods_Solutions_4U.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E13EA32CF5A21B78DB9E7BCE /* Pods_Solutions_4U.framework */; };
 /* End PBXBuildFile section */
 
@@ -24,12 +25,13 @@
 		F42661B91F4622E200517F6D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = controllers/ViewController.swift; sourceTree = "<group>"; };
 		F42661BB1F4622EE00517F6D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Storyboards/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F42661BC1F4622EE00517F6D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Storyboards/Main.storyboard; sourceTree = "<group>"; };
-		F42661C01F46232C00517F6D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "suppurting/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		F42661C11F46232C00517F6D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = suppurting/Info.plist; sourceTree = "<group>"; };
-		F42661C41F4635ED00517F6D /* ViewTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
 		F44476231F45A75B007766AA /* Solutions 4U.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Solutions 4U.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F44476261F45A75B007766AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F444762D1F45A75B007766AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F446021E1F46EC93008704D5 /* CategoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
+		F4B203D21F46DADF00E7252B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "suppurting/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		F4B533211F470383008329DC /* CurrentCategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentCategoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +66,7 @@
 		F42661BF1F4622FB00517F6D /* supporting */ = {
 			isa = PBXGroup;
 			children = (
-				F42661C01F46232C00517F6D /* GoogleService-Info.plist */,
+				F4B203D21F46DADF00E7252B /* GoogleService-Info.plist */,
 				F42661C11F46232C00517F6D /* Info.plist */,
 				F444762D1F45A75B007766AA /* Assets.xcassets */,
 			);
@@ -112,8 +114,9 @@
 		F444763B1F45B0B8007766AA /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				F4B533211F470383008329DC /* CurrentCategoryViewController.swift */,
+				F446021E1F46EC93008704D5 /* CategoryTableViewController.swift */,
 				F42661B91F4622E200517F6D /* ViewController.swift */,
-				F42661C41F4635ED00517F6D /* ViewTwo.swift */,
 			);
 			name = controllers;
 			sourceTree = "<group>";
@@ -181,7 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F42661BE1F4622EE00517F6D /* Main.storyboard in Resources */,
-				F42661C21F46232C00517F6D /* GoogleService-Info.plist in Resources */,
+				F4B203D31F46DADF00E7252B /* GoogleService-Info.plist in Resources */,
 				F444762E1F45A75B007766AA /* Assets.xcassets in Resources */,
 				F42661BD1F4622EE00517F6D /* LaunchScreen.storyboard in Resources */,
 			);
@@ -256,8 +259,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F42661BA1F4622E200517F6D /* ViewController.swift in Sources */,
+				F446021F1F46EC93008704D5 /* CategoryTableViewController.swift in Sources */,
 				F44476271F45A75B007766AA /* AppDelegate.swift in Sources */,
-				F42661C51F4635ED00517F6D /* ViewTwo.swift in Sources */,
+				F4B533221F470383008329DC /* CurrentCategoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
