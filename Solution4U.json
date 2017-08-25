@@ -1,0 +1,1434 @@
+{
+    "Problems": {
+		"Medical": {
+			"Head": {
+                "Scalp": {
+                    "Agitation": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Generalized anxiety disorder",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "medication reaction or side effect",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Alcohol withdrawal (delirium tremens)",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Alcohol intoxication",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Dementia in head injury",
+                                "percentage": "0-20 %"
+                            }
+                        }
+                    },
+                    "Bald spots (hair)": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Alopecia",
+                                "percentage": "80-100 %"
+                            },
+                            "solution 2": {
+                                "name": "Male pattern baldness",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Telogen effluvium",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Trichotillomania",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Any thing else",
+                                "percentage": "0-20 %"
+                            },    
+                        },
+                    },
+                    "Blackouts (memory time loss)": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Medication reaction or side-effect",
+                                "percentage": "80-100 %"
+                            },
+                            "solution 2": {
+                                "name": "Short-acting sedative use",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Epilepsy (absence or petit mal seizures)",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Epilepsy (complex partial seizures)",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Intoxication",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    }, 
+                    "Headache": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Tension Headache",
+                                "percentage": "80-100 %"
+                            },
+                            "solution 2": {
+                                "name": "Caffeine withdrawal",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Thalassemia",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Typhoid fever",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "West nile virus",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "HearingVoices": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "HearingVoices solution 1",
+                                "percentage": "80-100 %"
+                            },
+                            "solution 2": {
+                                "name": "HearingVoices solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "HearingVoices solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "HearingVoices solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "HearingVoices solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },  
+
+                },
+                "Face": {
+                    "Abnormally round face": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Abnormally round face solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Abnormally round face solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Abnormally round face solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Abnormally round face solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Abnormally round face solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Blank stare ": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Blank stare solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Blank stare solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Blank stare solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Blank stare solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Blank stare solution 5",
+                                "percentage": "0-20 %"
+                            },  
+                        },
+                    },
+                    "Bleeding ": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Bleeding solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Bleeding solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Bleeding solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Bleeding solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Bleeding solution 5",
+                                "percentage": "0-20 %"
+                            },  
+                        },
+                    },
+                    "Broken bones (multiple fractures)": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Broken bones solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Broken bones solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Broken bones solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Broken bones solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Broken bones solution 5",
+                                "percentage": "0-20 %"
+                            },  
+                        },
+                    },
+
+                },
+                "Eyes": {
+                    "Eyes Problem ": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Eyes solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Eyes solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Eyes solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Eyes solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Eyes solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Eyes Problem ": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Eyes solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Eyes solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Eyes solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Eyes solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Eyes solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Eyes Problem 3": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Eyes 3 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Eyes 3 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Eyes 3 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Eyes 3 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Eyes 3 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Eyes Problem 4": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Eyes 4 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Eyes 4 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Eyes 4 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Eyes 4 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Eyes 4 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+
+                },
+                "Ears": {
+                    "Ears Problem 1": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Ears 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Ears 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Ears 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Ears 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Ears 1 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Ears Problem 2": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Ears 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Ears 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Ears 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Ears 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Ears 2 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Ears Problem 3": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Ears 3 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Ears 3 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Ears 3 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Ears 3 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Ears 3 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Ears Problem 4": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Ears 4 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Ears 4 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Ears 4 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Ears 4 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Ears 4 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+
+                },
+                "Nose": {
+                    "Nose Problem 1": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Nose 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Nose 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Nose 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Nose 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Nose 1 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Nose Problem 2": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Nose 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Nose 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Nose 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Nose 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Nose 2 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Nose Problem 3": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Nose 3 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Nose 3 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Nose 3 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Nose 3 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Nose 3 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Nose Problem 4": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Nose 4 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Nose 4 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Nose 4 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Nose 4 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Nose 4 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+
+                },
+                "Mouth": {
+                    "Mouth Problem 1": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Mouth 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Mouth 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Mouth 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Mouth 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Mouth 1 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Mouth Problem 2": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Mouth 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Mouth 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Mouth 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Mouth 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Mouth 2 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Mouth Problem 3": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Mouth 3 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Mouth 3 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Mouth 3 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Mouth 3 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Mouth 3 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+                    "Mouth Problem 4": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Mouth 4 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Mouth 4 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Mouth 4 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Mouth 4 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Mouth 4 solution 5",
+                                "percentage": "0-20 %"
+                            },
+                        },
+                    },
+
+                }, 
+            },
+            "Neck": {
+                "Front Neck": {
+                    "Front Neck Problem 1":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Front Neck 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Front Neck 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Front Neck 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Front Neck 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Front Neck 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Front Neck Problem 2":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Front Neck 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Front Neck 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Front Neck 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Front Neck 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Front Neck 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+                "Back Neck": {
+                    "Back Neck Problem 1":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Back Neck 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Back Neck 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Back Neck 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Back Neck 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Back Neck 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Back Neck Problem 2":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Back Neck 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Back Neck 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Back Neck 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Back Neck 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Back Neck 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+                "Left Neck": {
+                    "Left Neck Problem 1":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Left Neck 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Left Neck 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Left Neck 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Left Neck 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Left Neck 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Left Neck Problem 2":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Left Neck 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Left Neck 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Left Neck 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Left Neck 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Left Neck 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+                "Right Neck": {
+                    "Right Neck Problem 1":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Right Neck 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Right Neck 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Right Neck 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Right Neck 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Right Neck 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Right Neck Problem 2":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Right Neck 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Right Neck 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Right Neck 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Right Neck 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Right Neck 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+            },
+            "Chest": {
+                "Sternum": {
+                    "Sternum problem 1":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Sternum 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Sternum 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Sternum 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Sternum 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Sternum 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Sternum problem 2":{
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Sternum 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Sternum 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Sternum 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Sternum 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Sternum 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    
+                },
+                "Lateral Chest": {
+                    "Lateral Chest problem 1": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Lateral Chest 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Lateral Chest 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Lateral Chest 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Lateral Chest 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Lateral Chest 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Lateral Chest problem 2": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Lateral Chest 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Lateral Chest 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Lateral Chest 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Lateral Chest 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Lateral Chest 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+            },
+            "Abdomen": {
+                "Upper Abdomen": {
+                    "Upper Abdomen problem 1": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Upper Abdomen 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Upper Abdomen 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Upper Abdomen 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Upper Abdomen 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Upper Abdomen 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Upper Abdomen problem 2": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Upper Abdomen 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Upper Abdomen 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Upper Abdomen 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Upper Abdomen 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Upper Abdomen 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+                "Lower Abdomen": {
+                    "Lower Abdomen problem 1": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Lower Abdomen 1 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Lower Abdomen 1 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Lower Abdomen 1 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Lower Abdomen 1 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Lower Abdomen 1 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    "Lower Abdomen problem 2": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Lower Abdomen 2 solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Lower Abdomen 2 solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Lower Abdomen 2 solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Lower Abdomen 2 solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Lower Abdomen 2 solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+            },
+            "Legs": {
+                "Thigh": {
+                    "Thigh problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Thigh solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Thigh solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Thigh solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Thigh solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Thigh solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+
+                },
+                "Knee": {
+                    "Knee problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Knee solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Knee solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Knee solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Knee solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Knee solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    
+                },
+                "Shin": {
+                    "Shin problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Shin solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Shin solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Shin solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Shin solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Shin solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    
+                },
+                "Ankle": {
+                    "Ankle problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Ankle solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Ankle solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Ankle solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Ankle solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Ankle solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    
+                },
+                "Foot": {
+                    "Foot problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Foot solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Foot solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Foot solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Foot solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Foot solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                    
+                },
+                "Toes": {
+                    "Toes problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Toes solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Toes solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Toes solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Toes solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Toes solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },   
+                },
+            },
+            "Arms": {
+                "Shoulder": {
+                    "Shoulder problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Shoulder solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Shoulder solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Shoulder solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Shoulder solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Shoulder solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+                "Armpit": {
+                    "Armpit problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Armpit solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Armpit solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Armpit solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Armpit solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Armpit solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+                "UpperArm": {
+                    "UpperArm problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "UpperArm solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "UpperArm solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "UpperArm solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "UpperArm solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "UpperArm solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+                "Elbow": {
+                    "Elbow problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Elbow solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Elbow solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Elbow solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Elbow solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Elbow solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+                "ForeArm": {
+                    "ForeArm problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "ForeArm solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "ForeArm solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "ForeArm solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "ForeArm solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "ForeArm solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+                "Wrist": {
+                    "Wrist problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Wrist solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Wrist solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Wrist solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Wrist solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Wrist solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+                "Palm": {
+                    "Palm problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Palm solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Palm solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Palm solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Palm solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Palm solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+                "Fingers": {
+                    "Fingers problem": {
+                        "Solutions": {
+                            "solution 1": {
+                                "name": "Fingers solution 1",
+                                "percentage": "80-100 %"
+                            }, 
+                            "solution 2": {
+                                "name": "Fingers solution 2",
+                                "percentage": "60-80 %"
+                            },
+                            "solution 3": {
+                                "name": "Fingers solution 3",
+                                "percentage": "40-60 %"
+                            },
+                            "solution 4": {
+                                "name": "Fingers solution 4",
+                                "percentage": "20-40 %"
+                            },
+                            "solution 5": {
+                                "name": "Fingers solution 5",
+                                "percentage": "0-20 %"
+                            },      
+                        },
+                    },
+                },
+            },
+        },
+
+        "Educational": {
+            
+        },
+
+        "Economical":{
+
+        },
+
+        "psychological": {
+
+        },
+
+        "Social": {
+
+        },
+
+        "Other": {
+
+        },
+
+    },
+},

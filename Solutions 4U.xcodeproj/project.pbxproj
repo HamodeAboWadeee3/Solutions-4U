@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F4120E691F4FC517009DD472 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4120E681F4FC517009DD472 /* Test.swift */; };
 		F41E0E7B1F4890510000B3B9 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41E0E7A1F4890510000B3B9 /* DetailsViewController.swift */; };
 		F42661BA1F4622E200517F6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42661B91F4622E200517F6D /* ViewController.swift */; };
 		F42661BD1F4622EE00517F6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F42661BB1F4622EE00517F6D /* LaunchScreen.storyboard */; };
@@ -25,6 +26,7 @@
 		8AED5B4761F82963777B02E8 /* Pods-Solutions 4U.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Solutions 4U.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U.debug.xcconfig"; sourceTree = "<group>"; };
 		DEF57B33B20DDE49DFB25BF7 /* Pods-Solutions 4U.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Solutions 4U.release.xcconfig"; path = "Pods/Target Support Files/Pods-Solutions 4U/Pods-Solutions 4U.release.xcconfig"; sourceTree = "<group>"; };
 		E13EA32CF5A21B78DB9E7BCE /* Pods_Solutions_4U.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Solutions_4U.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4120E681F4FC517009DD472 /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		F41E0E7A1F4890510000B3B9 /* DetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailsViewController.swift; path = controllers/DetailsViewController.swift; sourceTree = "<group>"; };
 		F42661B91F4622E200517F6D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = controllers/ViewController.swift; sourceTree = "<group>"; };
 		F42661BB1F4622EE00517F6D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Storyboards/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				F444763B1F45B0B8007766AA /* controllers */,
 				F444763A1F45AFF0007766AA /* storyboards */,
 				F42661BF1F4622FB00517F6D /* supporting */,
+				F4120E681F4FC517009DD472 /* Test.swift */,
 			);
 			path = "Solutions 4U";
 			sourceTree = "<group>";
@@ -122,8 +125,8 @@
 			children = (
 				F42661B91F4622E200517F6D /* ViewController.swift */,
 				F446021E1F46EC93008704D5 /* CategoryTableViewController.swift */,
-				F41E0E7A1F4890510000B3B9 /* DetailsViewController.swift */,
 				F4B533211F470383008329DC /* CurrentCategoryViewController.swift */,
+				F41E0E7A1F4890510000B3B9 /* DetailsViewController.swift */,
 				F48DE4561F4AFED500C9F14C /* SpecificDetailViewController.swift */,
 				F48DE4581F4B071700C9F14C /* Solutions.swift */,
 			);
@@ -272,6 +275,7 @@
 				F446021F1F46EC93008704D5 /* CategoryTableViewController.swift in Sources */,
 				F48DE4591F4B071700C9F14C /* Solutions.swift in Sources */,
 				F44476271F45A75B007766AA /* AppDelegate.swift in Sources */,
+				F4120E691F4FC517009DD472 /* Test.swift in Sources */,
 				F4B533221F470383008329DC /* CurrentCategoryViewController.swift in Sources */,
 				F41E0E7B1F4890510000B3B9 /* DetailsViewController.swift in Sources */,
 			);

@@ -9,6 +9,34 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
+        <!--fifthCategory-->
+        <scene sceneID="ueK-qd-AnM">
+            <objects>
+                <tableViewController title="fifthCategory" id="GO6-Jo-s1D" customClass="fifthCategory" customModule="Solutions_4U" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="7k6-4h-tET">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="vou-2x-oIo">
+                                <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="vou-2x-oIo" id="W1s-Js-zXw">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="GO6-Jo-s1D" id="soT-fw-ivY"/>
+                            <outlet property="delegate" destination="GO6-Jo-s1D" id="Wc7-Is-CKB"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WfA-me-TmO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-3322" y="681"/>
+        </scene>
         <!--Home-->
         <scene sceneID="Sww-IA-Qfn">
             <objects>
@@ -78,7 +106,7 @@ Glad to help you </string>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pSW-HO-NNd" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2382" y="-107"/>
+            <point key="canvasLocation" x="-3322" y="-72"/>
         </scene>
         <!--General Information-->
         <scene sceneID="PrL-w5-oWy">
@@ -175,7 +203,7 @@ Glad to help you </string>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="sTR-0J-DSP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1516" y="-107.49625187406298"/>
+            <point key="canvasLocation" x="-2436" y="-72"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="fXz-VP-waD">
@@ -191,7 +219,7 @@ Glad to help you </string>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vfy-KZ-jF5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1516" y="-870"/>
+            <point key="canvasLocation" x="-3322" y="-896"/>
         </scene>
         <!--Categories-->
         <scene sceneID="KNw-bS-mQi">
@@ -222,7 +250,7 @@ Glad to help you </string>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JPW-CP-9JD" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-660" y="-107.49625187406298"/>
+            <point key="canvasLocation" x="-1516" y="-72"/>
         </scene>
         <!--Current Category-->
         <scene sceneID="ubf-co-I1G">
@@ -254,76 +282,7 @@ Glad to help you </string>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZQt-x0-Rzg" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="108" y="-107"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="7mi-i4-h7N">
-            <objects>
-                <viewController id="xgi-Cb-z0g" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="zsP-Du-dDm"/>
-                        <viewControllerLayoutGuide type="bottom" id="tEn-7u-kRo"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="seY-EW-R34">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Possible Conditions :" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qk7-Ng-uQa">
-                                <rect key="frame" x="16" y="72" width="343" height="44"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="You are :" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sDL-L9-BR1">
-                                <rect key="frame" x="16" y="124" width="108" height="38"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Bold" family="Apple SD Gothic Neo" pointSize="25"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="80-100 % suffering from :  Tension headache" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7ys-tA-1dG">
-                                <rect key="frame" x="15" y="197" width="344" height="20.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="60-80 % suffering from : Caffeine withdrawal" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sfU-27-Jsf">
-                                <rect key="frame" x="15" y="242" width="344" height="20.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="0.5" green="0.0" blue="0.5" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="40-60 % suffering from : Thalassemia" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="V0J-Qm-R9E">
-                                <rect key="frame" x="15" y="288" width="344" height="20.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="1" green="0.5" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="20-40 % suffering from : Typhoid fever" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hTc-ri-5ci">
-                                <rect key="frame" x="16" y="335" width="344" height="20.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="0.24874407052993774" green="0.59381324052810669" blue="0.091398335993289948" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0-20 % suffering from : West nile virus" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k9H-gL-uYk">
-                                <rect key="frame" x="15" y="384" width="344" height="20.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="UCc-8J-njz" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-2383" y="724"/>
+            <point key="canvasLocation" x="-660" y="-72"/>
         </scene>
         <!--Solutions-->
         <scene sceneID="Wk4-rY-8LZ">
@@ -351,7 +310,7 @@ Glad to help you </string>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3yf-il-mbJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1516" y="724"/>
+            <point key="canvasLocation" x="-2436" y="681"/>
         </scene>
         <!--Specific Details-->
         <scene sceneID="v7U-So-Edc">
@@ -382,7 +341,7 @@ Glad to help you </string>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HvG-i6-WQc" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-660" y="724"/>
+            <point key="canvasLocation" x="-1516" y="681"/>
         </scene>
         <!--Details-->
         <scene sceneID="W94-Ms-BmP">
@@ -413,7 +372,7 @@ Glad to help you </string>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nfQ-8V-XhE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="108" y="724"/>
+            <point key="canvasLocation" x="-660" y="681"/>
         </scene>
     </scenes>
 </document>
